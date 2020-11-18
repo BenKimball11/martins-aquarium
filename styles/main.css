@@ -2,7 +2,7 @@ header {
   display: flex;
 }
 .logo {
-  height: 8em;
+  height: 10em;
 }
 .content {
   display: flex;
@@ -30,7 +30,7 @@ header {
   align-content: space-between;
 }
 .container--right {
-  flex: 1
+  flex: 1;
 }
 .fish__image {
   height: 8em;
