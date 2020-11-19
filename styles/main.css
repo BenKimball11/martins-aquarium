@@ -41,3 +41,9 @@ header {
 .container--left article {
   margin-bottom: 25px;
 }
+
+a{
+  text-decoration: none;
+  font-weight: bold;
+}
+
